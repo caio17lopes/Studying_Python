@@ -16,6 +16,6 @@ print("Países em ordem alfabética:", sorted(countrys_lower))
 # Contagem de paises
 print("A quantidade de paises na lista é de", len(countrys_lower), "no total")
 
-# embaralhando a lista 
+# Invertendo  a lista 
 countrys_lower.sort(reverse=True)
 print(countrys_lower)
